@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I am Manak 👋
+
+I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.
+
+- Currently working on a [Minecraft-clone][MineClone] and a [Manga app][OtakuFix] using Unity3D engine and Flutter respectively.
+- Looking forward to contributing more to open-source projects.
+- Know more about me at [Sourcerer][sourcerer].
+
+</br>
 
 <!--
 **manakmishra/manakmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[MineClone]: https://github.com/manakmishra/MineClone
+[OtakuFix]: https://github.com/manakmishra/OtakuFix
+[sourcerer]: https://sourcerer.io/manakmishra
