@@ -40,9 +40,6 @@ I am a developer who is passionate about mobile app development and game develop
 
 ---
 
-<br>
-<br>
-
 [MineClone]: https://github.com/manakmishra/MineClone
 [OtakuFix]: https://github.com/manakmishra/OtakuFix
 [sourcerer]: https://sourcerer.io/manakmishra
