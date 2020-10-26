@@ -28,13 +28,22 @@ I am a developer who is passionate about mobile app development and game develop
     <br>
     <p align="center">
         <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=manakmishra&show_icons=true&theme=radical"/>
-        <img src="https://github-readme-stats.manakmishra.vercel.app/api/top-langs/?username=manakmishra&layout=compact&theme=radical"/>
     </p>
 </details>
 <!-- blank line -->
+
+---
+## Connect with me!
+
+
+[<img align="left" alt="manakmishra.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Manak Mishra | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br>
 <br>
 
 [MineClone]: https://github.com/manakmishra/MineClone
 [OtakuFix]: https://github.com/manakmishra/OtakuFix
 [sourcerer]: https://sourcerer.io/manakmishra
+[linkedin]: https://www.linkedin.com/in/manakmishra/
+[website]: https://manakmishra.github.io/
