@@ -1,31 +1,21 @@
 ## Hi there, I am Manak 👋
----
 
-<br>
 I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.
 
-- 💻 Currently working on a [Minecraft-clone][MineClone] and a [Manga app][OtakuFix] using Unity3D engine and Flutter respectively.
+- 🔭 Currently working on a [Minecraft-clone][MineClone] and a [Manga app][OtakuFix] using Unity3D engine and Flutter respectively.
 - 🥅 Looking forward to contributing more to open-source projects.
 - 👨 Know more about me at [Sourcerer][sourcerer].
  ---
+<br>
 
-![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&hide_border=true)
-
-<!--
-**manakmishra/manakmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<details open>
+    <summary>⚡ My GitHub Stats </summary>
+    <br>
+    <p align="center">
+        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=manakmishra&show_icons=true&theme=radical"/>
+        <img src="https://github-readme-stats.manakmishra.vercel.app/api/top-langs/?username=manakmishra&hide=html,hlsl&theme=radical"/>
+    </p>
+</details>
 
 [MineClone]: https://github.com/manakmishra/MineClone
 [OtakuFix]: https://github.com/manakmishra/OtakuFix
