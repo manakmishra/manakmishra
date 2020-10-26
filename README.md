@@ -1,4 +1,4 @@
-## Hi there, I am Manak 👋
+# Hi there, I am Manak 👋
 
 I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.
 <!-- blank line -->
@@ -8,7 +8,7 @@ I am a developer who is passionate about mobile app development and game develop
  ---
 <br>
 
-<details open>
+<details>
     <summary>⚡ Recent GitHub Activity </summary>
     <br>
 
