@@ -7,7 +7,13 @@ I am a developer who is passionate about mobile app development and game develop
 - 👨 Know more about me at [Sourcerer][sourcerer].
  ---
 <br>
-<!-- blank line -->
+
+<details open>
+    <summary>⚡ Recent GitHub Activity </summary>
+    <!--START_SECTION:activity-->
+</details>
+<br>
+
 <details open>
     <summary>⚡ My GitHub Stats </summary>
     <br>
