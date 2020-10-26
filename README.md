@@ -10,7 +10,7 @@ I am a developer who is passionate about mobile app development and game develop
 
 <details open>
     <summary>⚡ Recent GitHub Activity </summary>
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1277](https://github.com/JonathanGin52/JonathanGin52/issues/1277) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 2. 🎉 Merged PR [#1](https://github.com/manakmishra/opensuspect/pull/1) in [manakmishra/opensuspect](https://github.com/manakmishra/opensuspect)
 3. 💪 Opened PR [#1](https://github.com/manakmishra/opensuspect/pull/1) in [manakmishra/opensuspect](https://github.com/manakmishra/opensuspect)
