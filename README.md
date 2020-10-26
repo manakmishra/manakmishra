@@ -9,7 +9,7 @@ I am a developer who is passionate about mobile app development and game develop
 - 👨 Know more about me at [Sourcerer][sourcerer].
  ---
 
-![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&hide_borders=true)
+![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&hide_border=true)
 
 <!--
 **manakmishra/manakmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
