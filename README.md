@@ -8,7 +8,7 @@ I am a developer who is passionate about mobile app development and game develop
 
 ## Connect with me!
 
-[<img align="left" alt="manakmishra.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="manakmishra.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="Manak Mishra | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
