@@ -2,7 +2,7 @@
 
 I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.
 <!-- blank line -->
-- 🔭 Currently working on a [Minecraft-clone][MineClone] and a [Manga app][OtakuFix] using Unity3D engine and Flutter respectively.
+- 🔭 Currently working on [OtakuFix, a Manga app][OtakuFix] using Flutter.
 - 🥅 Looking forward to contributing more to open-source projects.
 - 👨 Know more about me at [Sourcerer][sourcerer].
 
