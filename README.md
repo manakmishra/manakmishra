@@ -1,47 +1,22 @@
-# Hi there, I am Manak 👋
+<h1 align="center">Hi 👋, I'm Manak!</h1>
+<h3 align="center">I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.</h3>
 
-I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.
-<!-- blank line -->
-- 🔭 Currently working on [OtakuFix, a Manga app][OtakuFix] using Flutter.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manakmishra" alt="manakmishra" /></a> </p>
+
+- 🔭 I’m currently working on [OtakuFix](https://github.com/manakmishra/OtakuFix)
 - 🥅 Looking forward to contributing more to open-source projects.
-- 👨 Know more about me at [Sourcerer][sourcerer].
 
-## Connect with me!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manakmishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manakmishra" height="30" width="40" /></a>
+</p>
 
-<!--[<img align="left" alt="manakmishra.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="Manak Mishra | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<br />
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<details>
-    <summary>⚡ Recent GitHub Activity </summary>
-    <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manakmishra&show_icons=true&locale=en&layout=compact" alt="manakmishra" /></p>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-2. ❌ Reopened PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-3. ❌ Closed PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-4. 💪 Opened PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-5. ❗️ Opened issue [#1277](https://github.com/JonathanGin52/JonathanGin52/issues/1277) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-<!--END_SECTION:activity-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&locale=en&count_private=true" alt="manakmishra" /></p>
 
-</details>
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manakmishra&" alt="manakmishra" /></p>
 
-<details open>
-    <summary>⚡ My GitHub Stats </summary>
-    <br>
-    <p align="center">
-        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=manakmishra&show_icons=true&theme=radical"/>
-    </p>
-</details>
-<!-- blank line -->
-
----
-
-[MineClone]: https://github.com/manakmishra/MineClone
-[OtakuFix]: https://github.com/manakmishra/OtakuFix
-[sourcerer]: https://sourcerer.io/manakmishra
-[linkedin]: https://www.linkedin.com/in/manakmishra/
-[website]: https://manakmishra.github.io/
