@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manak!</h1>
 <h3 align="center">I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manakmishra" alt="manakmishra" /></a> </p>
-
 - 🔭 I’m currently working on [OtakuFix](https://github.com/manakmishra/OtakuFix)
 - 🥅 Looking forward to contributing more to open-source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manakmishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manakmishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manakmishra" target="blank"><img align="center" src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="manakmishra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
