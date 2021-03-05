@@ -17,6 +17,11 @@
 
 ---
 
+<h3 align="left">⚡Recent Activity:</h3>
+<!--START_SECTION:activity-->
+
+---
+
 <h3 align="left">My Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&theme=radical&locale=en&count_private=true" alt="manakmishra" /></p>
 
