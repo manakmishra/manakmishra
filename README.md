@@ -17,16 +17,6 @@
 
 ---
 
-<h3 align="left">⚡Recent Activity:</h3>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-2. ❌ Reopened PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-3. ❌ Closed PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-4. 💪 Opened PR [#1](https://github.com/manakmishra/resume/pull/1) in [manakmishra/resume](https://github.com/manakmishra/resume)
-<!--END_SECTION:activity-->
-
----
-
 <h3 align="left">My Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manakmishra&show_icons=true&theme=radical&locale=en&count_private=true" alt="manakmishra" /></p>
 
