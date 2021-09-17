@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manak!</h1>
 <h3 align="center">I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.</h3>
 
-- 🔭 I’m currently working on [OtakuFix](https://github.com/manakmishra/OtakuFix)
 - 🥅 Looking forward to contributing more to open-source projects.
 ---
 
