@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manak!</h1>
-<h3 align="center">I am a developer who is passionate about mobile app development and game development. I actively enjoy working with C++, Flutter and Unity3D.</h3>
-
-- 🥅 Looking forward to contributing more to open-source projects.
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
